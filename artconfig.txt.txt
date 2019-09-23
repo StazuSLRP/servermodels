@@ -1,0 +1,3 @@
+AddCharModel(114, 25002, "vla1.dff", "vla1.txd");
+AddCharModel(115, 25003, "vla2.dff", "vla2.txd");
+AddCharModel(116, 25004, "vla3.dff", "vla3.txd");
